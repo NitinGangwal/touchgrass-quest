@@ -1,0 +1,4 @@
+streamlit
+ollama
+pillow
+google-genai
